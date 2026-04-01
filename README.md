@@ -1,17 +1,22 @@
 # Hi, I'm Jidnyasa
 
 Industrial Engineering student @ Purdue  
-Turning coffee into code and math into decisions
+I like turning complex ideas into something clear, visual, and meaningful
 
-## Interests
+## Focus Areas
 - Quantitative Finance
 - Optimization
-- Data & Modeling
+- Data & Mathematical Modeling
 
-## Currently Learning
-- Python
+## Currently Building
+- Portfolio Optimization (Markowitz Model)
+- Option Pricing Models (Black-Scholes, Monte Carlo)
+- Time Series Forecasting
+
+## Skills (in progress)
+- Python (NumPy, Pandas, Matplotlib)
 - Probability & Statistics
 - Linear Algebra
 
 ## Goal
-Build strong quantitative projects and get into a top master's program in Switzerland
+To build intuitive and impactful quantitative models and get into a top master's program in Switzerland
